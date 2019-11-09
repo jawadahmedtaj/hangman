@@ -1,4 +1,4 @@
-var ENGLISH_WORDS = [
+let ENGLISH_WORDS = [
   "their",
   "would",
   "about",
@@ -1607,7 +1607,7 @@ var ENGLISH_WORDS = [
   "sensor",
   "manual",
   "pistol",
-  "naval",
+  "naval"
 ];
 
 function randomWord() {
